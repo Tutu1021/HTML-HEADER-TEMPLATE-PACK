@@ -1,0 +1,10 @@
+name: html-header-template-pack
+base: core18
+version: '1.1'
+summary: HTML beautyful header templates by Tutu1021
+description: Some HTML Header Templates
+grade: stable
+confinement: strict
+apps:
+  html-header-template-pack:
+    command: 
