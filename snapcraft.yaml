@@ -8,3 +8,7 @@ confinement: strict
 apps:
   html-header-template-pack:
     command: 
+parts:
+  html-header-template-pack:
+    source: 
+    plugin: apt
