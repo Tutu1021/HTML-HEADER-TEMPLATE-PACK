@@ -4,3 +4,4 @@ discription: Some HTML header templates
 parts:
   hhtp:
     source: https://github.com/Tutu1021/HTML-HEADER-TEMPLATE-PACK/archive/refs/heads/master.zip
+    plugin: apt
